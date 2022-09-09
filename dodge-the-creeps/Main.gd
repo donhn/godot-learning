@@ -59,4 +59,4 @@ func new_game():
 	$HUD.show_message("Get Ready")
 	$Player.start($StartPosition.position)
 	$StartTimer.start()
-	$Music.play()	
+	$Music.play()
